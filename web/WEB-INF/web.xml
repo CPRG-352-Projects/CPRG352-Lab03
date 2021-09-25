@@ -6,7 +6,7 @@
     </servlet>
     <servlet>
         <servlet-name>ArithmeticCalculatorServlet</servlet-name>
-        <servlet-class>ArithmeticCalculatorServlet</servlet-class>
+        <servlet-class>servlets.ArithmeticCalculatorServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>ageCalcServlet</servlet-name>
